@@ -1,0 +1,16 @@
+{
+  "name": "calculator-lib",
+  "version": "1.0.0",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.4.3",
+    "jest": "^29.4.3",
+    "parcel": "latest"
+  }
+}
